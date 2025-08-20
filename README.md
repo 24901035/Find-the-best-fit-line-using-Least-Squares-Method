@@ -1,4 +1,9 @@
 # Implementation of Univariate Linear Regression
+
+Name : Mohan R
+
+Reg No : 212224230168
+
 ## AIM:
 To implement univariate Linear Regression to fit a straight line using least squares.
 
@@ -42,7 +47,8 @@ plt.show()
 
 ## Output:
 
-<img width="792" height="686" alt="image" src="https://github.com/user-attachments/assets/5f24b8cf-59b1-44ad-a7a4-1cae93bcac28" />
+<img width="893" height="674" alt="Screenshot 2025-08-20 110356" src="https://github.com/user-attachments/assets/c3fcd662-2983-4eca-b3cf-abb3d28f54cc" />
+
 
 
 
